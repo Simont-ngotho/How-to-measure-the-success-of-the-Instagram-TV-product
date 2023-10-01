@@ -13,11 +13,15 @@ As a Data Scientist at Instagram, it is paramount for me to measure the success 
 In order to get insights of user interactions within Instagram, it important to evaluate below key features.
 
 **a.	Views:** This is tracking the number of times a post has been viewed over a period of time. The trends in viewership will be crucial in communicating growth or otherwise.  
+
 **b.	Followers:** Tracking the number of follows over a given period of time will help in monitoring growth or decline
+
 **c.	Subscribers:** The number of subscription helps in determining the relevance of the TV and likeability. It is a good way measuring the success of the TV as it is an indication of loyalty. 
 
 **3.	User behaviours**
+
 **a.	User retention:** This is tracking the number of times the same users return to the content. 
+
 **b.	Drop-offs:** Tracking the number of drop-offs on every post will help show how interested users are with the product. High drop-offs shows lack of interest and vice versa. 
 
 **4.	Content uploaded**
@@ -27,7 +31,9 @@ Increasing number of content created by users is good way of measuring the effec
 Likes, Shares and Comments is a good metrics of measuring the effectiveness of the product. The more they are, the more it is likely that the users are liking the product(s). 
 
 **6.	Time** 
-**a.	Watching time:** Monitoring the length of time that viewers, content creators spend on Instagram will help tell the effectiveness of the product. 
+
+**a.	Watching time:** Monitoring the length of time that viewers, content creators spend on Instagram will help tell the effectiveness of the product.
+
 **b.	Clips/Video/content length:** An analysis of the time spent by users on posts against their length is a good way of gauging the effectiveness. 
 
 **7.	Cost Analysis**
