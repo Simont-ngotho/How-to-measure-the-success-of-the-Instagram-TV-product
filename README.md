@@ -50,3 +50,5 @@ The time spent by users to navigate to a particular icon/item in the platform ca
 
 **11.	Ethics and Principles**
 How ethical the content is, affects the user interactions. While the younger generation may find it relaxing to share any content, the older generation might shun from using Instagram which directly affects the subscription. By use of geographical data, it is possible to measure the ethics of contents from the comments and demographics of user. E.g. Asia and Africa might be sensitive to content while parts of Europe and America might show different data. 
+
+This metrics will be useful to the Instagram business as they will help them make decisions that will eleviate revenues from ads and at the same time increase the users satisfaction. 
