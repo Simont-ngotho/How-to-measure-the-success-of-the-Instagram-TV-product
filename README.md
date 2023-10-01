@@ -4,6 +4,7 @@ Project 1: How to measure the success of the Instagram TV product as Product Dat
 Project - Option 1: Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product?
 
 PROJECT
+
 As a Data Scientist at Instagram, it is paramount for me to measure the success of Intagram TV Product to help the management make data driven decisions on viability or the value preposition against the investment of the same. To help me in my assignment, I will need to use different metrics as listed below. 
 
 1.	User Interactions
